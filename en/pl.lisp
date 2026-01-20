@@ -3,7 +3,7 @@
 
 (in-package :hiisi)
 
-(defun lang-guide-pl ()
+(defun lang-guide-pl-en ()
   "Returns the language guide for Polish as Shoelace-HSX markup."
   (shoelace-hsx
    (div :class "lang-guide"

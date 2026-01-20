@@ -3,7 +3,7 @@
 
 (in-package :hiisi)
 
-(defun lang-guide-et ()
+(defun lang-guide-et-en ()
   "Returns the language guide for Estonian as Shoelace-HSX markup."
   (shoelace-hsx
    (div :class "lang-guide"

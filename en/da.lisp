@@ -3,7 +3,7 @@
 
 (in-package :hiisi)
 
-(defun lang-guide-da ()
+(defun lang-guide-da-en ()
   "Returns the language guide for Danish as Shoelace-HSX markup."
   (shoelace-hsx
    (div :class "lang-guide"

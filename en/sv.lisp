@@ -3,7 +3,7 @@
 
 (in-package :hiisi)
 
-(defun lang-guide-sv ()
+(defun lang-guide-sv-en ()
   "Returns the language guide for Swedish as Shoelace-HSX markup."
   (shoelace-hsx
    (div :class "lang-guide"

@@ -3,7 +3,7 @@
 
 (in-package :hiisi)
 
-(defun lang-guide-cs ()
+(defun lang-guide-cs-en ()
   "Returns the language guide for Czech as Shoelace-HSX markup."
   (shoelace-hsx
    (div :class "lang-guide"

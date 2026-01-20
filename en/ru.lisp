@@ -3,7 +3,7 @@
 
 (in-package :hiisi)
 
-(defun lang-guide-ru ()
+(defun lang-guide-ru-en ()
   "Returns the language guide for Russian as Shoelace-HSX markup."
   (shoelace-hsx
    (div :class "lang-guide"

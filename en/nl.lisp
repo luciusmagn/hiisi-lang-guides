@@ -3,7 +3,7 @@
 
 (in-package :hiisi)
 
-(defun lang-guide-nl ()
+(defun lang-guide-nl-en ()
   "Returns the language guide for Dutch as Shoelace-HSX markup."
   (shoelace-hsx
    (div :class "lang-guide"

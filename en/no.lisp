@@ -3,7 +3,7 @@
 
 (in-package :hiisi)
 
-(defun lang-guide-no ()
+(defun lang-guide-no-en ()
   "Returns the language guide for Norwegian as Shoelace-HSX markup."
   (shoelace-hsx
    (div :class "lang-guide"

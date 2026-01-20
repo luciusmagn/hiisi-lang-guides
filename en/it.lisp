@@ -3,7 +3,7 @@
 
 (in-package :hiisi)
 
-(defun lang-guide-it ()
+(defun lang-guide-it-en ()
   "Returns the language guide for Italian as Shoelace-HSX markup."
   (shoelace-hsx
    (div :class "lang-guide"

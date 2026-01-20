@@ -3,7 +3,7 @@
 
 (in-package :hiisi)
 
-(defun lang-guide-fi ()
+(defun lang-guide-fi-en ()
   "Returns the language guide for Finnish as Shoelace-HSX markup."
   (shoelace-hsx
    (div :class "lang-guide"
